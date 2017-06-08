@@ -1,0 +1,474 @@
+
+  // Problem Handeling PAGE
+  "problemHandling" : {
+    "Problem focussed" : "Probleemgericht",
+    "Emotion oriented" : "Emotiegericht",
+    "Avoiding" : "Vermijden",
+    "Seeking distraction" : "Afleiding zoeken",
+    "title": "Omgaan met problemen",
+    "subTitle": "(Coping)",
+    "intro" : "
+    <p>Mensen hebben vaak vaste gedragswijzen en strategieën om stress te verminderen en om problemen hanteerbaar te maken. We noemen dat coping.
+    </p>
+    <p>De meest voorkomende coping-stijlen zijn probleemgericht, emotiegericht, vermijden, afleiding zoeken. Deze coping-stijlen kan je ontwikkelen zodat je je gedrag beter aan de situatie kan aanpassen.
+    </p>
+    ",
+    "leftColumn" : "
+    <p><strong class='color1'>Probleemgericht</strong><br>Een coping stijl die erop gericht is doelgericht (rationeel) en actief naar manieren te zoeken om met problemen om te gaan. Feedback van anderen wordt gebruikt bij het vinden van een werkzame, goede oplossing. Daardoor daalt het stressniveau en neemt het zelfvertrouwen toe.
+    </p>
+    <p><strong class='color1'>Emotiegericht</strong><br>Mensen met deze stijl tonen bij problematische situaties gevoelens en emoties openlijk aan de omgeving. Dit kan vaak heel nuttig zijn, omdat het je daarna in staat stelt de problemen opnieuw en rustig onder ogen te zien. Ook geeft het een duidelijk signaal waar je staat. Een hoge score betekent vaak ook dat mensen 'over - emotioneel' reageren en/of te lang in de emotie blijven hangen. Dit kan juist het zicht op een goede oplossing vertroebelen.
+    </p>
+    ",
+    "rightColumn" : "
+    <p><strong class='color1'>Vermijden</strong><br>Mensen met deze stijl hebben de neiging om lastige situaties uit de weg te gaan en de problemen niet onder ogen te zien. Ze hopen dat de problemen vanzelf zullen verdwijnen als ze de andere kant op kijken. Deze manier levert vaak spanning op en laat problemen langer voortduren dan nodig is. Problemen en spanning kunnen daardoor zelfs toenemen.
+    </p>
+    <p><strong class='color1'>Afleiding zoeken</strong><br>Mensen met  deze stijl nemen in lastige situaties afstand van problemen door andere dingen te gaan doen (een ommetje maken, lezen etc) maar wel met de intentie om er later op terug te komen en er wat aan te doen. Mensen die laag scoren op afleiding zoeken hebben vaak moeite zich te ontspannen en lopen daardoor een groter risico op lichamelijke en mentale klachten..
+    </p>
+    "
+  },
+
+  // Your Infuence PAGE
+  "yourInfluence" : {
+    "External locus" : "Externe locus",
+    "Internal locus" : "Interne locus",
+    "title": "Invloed",
+    "subTitle": "(Locus of control)",
+    "intro" : "
+    <p>Sommige mensen vinden dat ze veel invloed hebben op gebeurtenissen in hun leven. Anderen denken juist dat de invloed buiten zichzelf ligt. We noemen dat 'interne' of 'externe' locus of control. Deze manier van kijken is van belang voor hoe we stressvolle situaties inschatten en er vervolgens mee omgaan.
+    </p>
+    ",
+    "leftColumn" : "
+    <p><strong class='color1'>Interne Locus of Control</strong><br>Mensen met een sterke interne locus of control gaan ervan uit dat zij gebeurtenissen die belangrijk voor hen zijn, kunnen beïnvloeden. Zij leggen bij het zoeken naar verklaringen en oplossingen voor wat hen overkomt de nadruk op de eigen inbreng en verantwoordelijkheid.</p>
+    <p><em>Bijvoorbeeld bij ruzie vraag ik mij af wat mijn gevoeligheden zijn of waar ik wellicht confronterend/niet aardig/onbegrijpelijk heb gereageerd en hoe ik de situatie positief kan beïnvloeden.</em>
+    </p>
+    ",
+    "rightColumn" : "
+    <p><strong class='color1'>Externe Locus of Control</strong><br>Mensen met een sterke externe locus of control zien belangrijke gebeurtenissen meer bepaald door anderen: zij zijn sneller geneigd te denken dat stressvolle situaties grotendeels veroorzaakt worden door factoren waar zij zelf nauwelijks of geen greep op hebben. Er kan een gevoel van machteloosheid ontstaan omdat zij niet ervaren dat zij zelf een aandeel hebben in het vinden van een oplossing.
+    </p>
+    <p><em>Bijvoorbeeld bij ruzie ga ik ervan uit dat de ander de schuldige is, stom deed en ik er zelf niets aan kan doen. De ander mag dan ook mooi zijn excuses aanbieden en de ruzie oplossen.</em>
+    </p>
+    "
+  },
+
+
+  // Conflict Handling PAGE
+  "conflictHandling" : {
+    "confront"               : "Confronteren",
+    "cover"                  : "Toedekken",
+    "avoid"                  : "Ontlopen",
+    "forcing"                : "Forceren",
+    "perceptionAboutSelf"    : "zelfbeeld",
+    "perceptionAboutPartner" : "jouw perceptie van de ander",
+    "title"                  : "Omgaan met conflicten",
+    "intro"                  : "
+    <p>De meest gebruikte stijlen van conflicthantering zijn forceren, ontlopen, toedekken en confronteren. Bij conflicten (tegenstrijdige belangen, ruzie) zie je dat mensen geneigd zijn om op dezelfde manier te reageren.</p>
+    ",
+    "leftColumn" : "
+    <p><strong class='color1'>Forceren</strong><br>Mensen die hoog scoren op ‘forceren’ hebben een krachtige manier van optreden om eigen doelen/belangen door te drukken ten koste van die van de ander. Ze zien een conflict als een strijd van winnen of verliezen en staan onverschillig tegenover het in standhouden van een goede relatie met de ander.</p>
+    <p><strong class='color1'>Ontlopen</strong><br>Mensen die hoog scoren op ‘ontlopen’ zijn geneigd een onverschillige houding aan te nemen tegenover eigen doelen en belangen. Het contact met eigen gevoel en behoeften is verloren. Zij richten al hun energie op het voorkomen van een openlijke botsing of confrontatie met de ander en stellen zich ondergeschikt en afwachtend op.</p>
+    ",
+    "rightColumn" : "
+    <p><strong class='color1'>Confronteren</strong><br>Het gedrag van mensen die hoog scoren op ‘confronteren’ is zowel gericht op het nastreven van eigen doelen en belangen als op het goed houden van de relatie en zorg voor andermans belangen. Zij vinden dat beiden verantwoordelijk zijn voor de situatie en het zou voor allebei winst op moeten kunnen leveren.</p>
+    <p><strong class='color1'>Toedekken</strong><br>Mensen die hier hoog op scoren zijn erop gericht om de onderlinge relatie goed te houden zelfs als dat ten kosten gaat van eigen belangen. Ze beschouwen de relatie met de ander als zo kwetsbaar dat die een openlijke confrontatie en het bespreken van meningsverschillen niet kan verdragen.</p>
+    ",
+    "reference" : "
+    <em class='color1'>Zie voor meer informatie over conflicthantering het onderdeel 'Verdieping'.</em>
+    ",
+  },
+
+  // Feedback Giving PAGE
+  "feedback" : {
+    "Giving feedback" : "Feedback geven",
+    "Receiving feedback" : "Feedback ontvangen",
+    "title": "Feedback geven en ontvangen",
+    "intro" : "
+    <p>Feedback is commentaar dat we geven op, of ontvangen over iemands veranderbare gedrag of houding. Via feedback leer je hoe jouw gedrag of houding overkomt en welke effecten dat gedrag op de ander heeft. Het doel van feedback is om positief gedrag te erkennen en te stimuleren, negatief gedrag te corrigeren, relaties tussen personen te verduidelijken en begrip voor elkaar en voor het eigen gedrag te vergroten.</p>
+    ",
+    "leftColumn" : "
+    <p><strong class='color1'>Feedback geven</strong><br>Mensen met een lage score zijn bang dat de ander boos of gekwetst zal reageren. Zij hebben niet genoeg zelfvertrouwen om hun eigen mening te geven en denken dat wat zij vinden er niet toe doet. Het kan ook zijn dat men nog niet zo vaardig is in het op de goede manier geven van feedback.
+    </p>
+    <p>Mensen die gemiddeld scoren geven zo nu en dan feedback maar zij zijn terughoudend omdat zij het moeilijk vinden de juiste manier te vinden om hun boodschap over te brengen. Zij vinden wel dat men feedback aan elkaar moet kunnen geven maar zij zijn ook bang dat zij kritisch of onecht overkomen en vinden het gemakkelijker om het uit de weg te gaan.
+    </p>
+    <p>Mensen met een hoge score gaat het geven van feedback goed af. Zij durven het gedrag van de ander te benoemen en welk effect dat gedrag op hen heeft en spreken hun wens tot verandering uit.
+    </p>
+    ",
+    "rightColumn" : "
+    <p><strong class='color1'>Feedback ontvangen</strong><br>Mensen met een lage score vinden het moeilijk om feedback te krijgen. Wantrouwen speelt een rol. Zij worden onzeker als zij feedback krijgen en hebben daardoor moeite goed te luisteren en om verheldering te vragen. Bij positieve feedback voelen zij zich verlegen en hebben zij de neiging er snel overheen te praten.
+    </p>
+    <p>Mensen die gemiddeld scoren vinden dat je feedback moet kunnen ontvangen maar in de praktijk vinden zij het soms lastig omdat zij er wat onzeker of verlegen van worden. Zij willen er voor open staan en er van leren maar soms overheersen negatieve emoties die dat belemmeren. Zij doen wel hun best dit te overwinnen.
+    </p>
+    <p>Mensen met een hoge score gaat het ontvangen van feedback goed af. Hun zelfvertrouwen maakt dat zij zich niet door feedback van hun stuk laten brengen. Zij vertrouwen op de goede bedoelingen en de oprechtheid van de ander. Zij zijn in staat om te leren van de feedback die zij krijgen.
+    </p>
+    "
+
+  },
+
+  // COMMENT PAGE
+  "comment" : {
+    "title" : "Opmerkingen",
+    "leftColumn" : "
+    <p>x</p>
+    ",
+    "rightColumn" : "
+    <p>x</p>
+    ",
+    "reference" : "
+    Literatuur:<br>
+    <span class='color1'>1)</span>x<br>
+    <span class='color1'>2)</span>x<br>
+    "
+  },
+
+  // APPENDIX PAGE
+  "appendix" : {
+
+    // Personal style 1
+    "personalStyle1" : {
+      "title" : "Ik in de Relatie",
+      "subTitle" : "",
+      "intro" : "
+      <p>
+        <strong>Doel:</strong> Het doorbreken van gedragspatronen en het ontwikkelen van andere manieren van omgaan en reageren op problemen.
+      </p>
+      <p>
+        <strong>Herkennen:</strong> Het herkennen van patronen in de manier waarop ik met problemen omga. Voor iedereen is het nuttig om de eigen manieren van omgaan met problemen en het reageren op stressvolle situaties te kennen. 
+      </p>
+      <p>
+        <strong>Begrijpen:</strong> Door bewustwording van mijn gedachten en eigenschappen begrijp ik beter waar mijn gedrag vandaan komt en leer ik wat het effect van mijn gedrag is op anderen en welke impact het heeft op mijn relatie (omgeving). 
+      </p>
+      <p>
+        <strong>Veranderen:</strong> Andersom geldt dit ook; het gedrag van de ander beïnvloedt mij. Ik kan mij afvragen wat eraan het gedrag van de ander ten grondslag ligt en ik kan bedenken met welk gedrag ik op de ander zal reageren.
+      </p>
+      "
+      ,
+      "leftColumn" : "
+      <p>
+        <strong class='color1'>Eigenschappen</strong><br>
+        We weten van Extraversie, Emotionele instabiliteit en Type–A gedrag dat ze verband houden met de manier van omgaan met stress. Zij kunnen mij wijzen op bepaalde zwakheden en sterktes en bieden aangrijpingspunten om mijn manieren om met moeilijke situaties om te gaan te veranderen.
+      </p>
+      <p>
+        <strong class='color1'>Extraversie</strong><br>
+        De mate waarin ik behoefte heb aan contact met anderen. Extraverte mensen zijn sociaal, actief, praten graag, gericht op personen, optimistisch. De buitenwereld is de maatstaf voor wat de extravert ervaart, besluit en doet en de energie is naar buiten gericht, op mensen, activiteiten en dingen. Zij krijgen energie van contact met anderen. Zij praten over wat ze bezighoudt, door te praten ordenen ze hun gedachten. Ze zijn sneller en reageren gevat in een gesprek en schrijven meeslepend, maar ze nemen het minder nauw met de feiten. Zij zijn energiek, enthousiast en actiegericht. Zij vinden het fijner om met andere mensen samen te zijn dan om alleen te zijn.
+      </p>
+      <p>
+        <strong class='color1'>Kwaliteiten</strong><br>
+        Enthousiast, openhartig, spontaan, direct, makkelijke Prater, speels, levendig, zelfverzekerd, daadkrachtig, initiatiefrijk.
+      </p>
+      <p>
+        <strong class='color1'>Valkuilen</strong><br>
+        Fanatiek, Loslippig, opdringerig, bot, slecht luisterend, veel aandacht vragen, oppervlakkig, onrustig, arrogant, drammerig, wispelturig, groep verstoren.
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op extraversie: Ik luister met oprechte interesse naar de ander zonder een oordeel te vellen of mijn eigen ideeën naar voren te brengen. Stel, als ik iets niet begrijpt, openvragen (waar de ander niet met ja of nee op kan antwoorden).</em>
+      </p>
+      ",
+      "rightColumn" : "
+      <p>
+        <strong class='color1'>Introversie</strong><br>
+        Introverte mensen werken het liefst alleen of in een rustige omgeving. Introverte mensen halen energie uit zichzelf door zich te richten op hun eigen gedachten en gevoelens beleving en overwegingen. Zij verwerken de informatie intern, precies en gefocust en pas wanneer ze hun gedachten intern geordend hebben laten ze van zich spreken wat zich uit in meer beschrijvende, concrete taal. Een introvert persoon denkt goed na voor hij of zij iets zegt. Dit past ook bij het langzamer spreken, het vaker pauzes laten vallen en het preciezer formuleren en objectieve en accurate beschrijvingen. Introverte mensen zijn rustige types, weloverwogen, beschouwelijk en voelen zich in onbekend gezelschap niet gauw thuis. 
+
+        </p>
+      <p>
+        <strong class='color1'>Kwaliteiten</strong><br>
+        Rustig, bescheiden, bedachtzaam, doorzetter, geduldig, zorgvuldig, kan goed luisteren, gedisciplineerd, toegewijd, kan goed analyseren.
+      </p>
+      <p>
+        <strong class='color1'>Valkuilen</strong><br>
+         Aarzelend, onzichtbaar, traag, koppig, passief, pietluttig, gesloten, star, afstandelijk, Te kritisch.
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op introversie: ik vertel de ander welke gedachten er in mij omgaan en welk gevoel ik daarbij hebt. De ander kan immers geen gedachten lezen. Kijk ook bij de feedbacktips.</em>
+      </p>
+      "
+    },
+
+  // Personal style 2
+    "personalStyle2" : {
+      "title" : "",
+      "subTitle" : "<em>(eigenschappen vervolg)</em>",
+      "intro" : "",
+      "leftColumn" : "
+      <p>
+        <strong class='color1'>Emotionele instabiliteit</strong><br>
+        De mate van emotionele instabiliteit zegt iets over de mate van zelfverzekerdheid, evenwichtigheid, nervositeit, onverstoorbaarheid, zorgelijkheid.
+      </p>
+      <p>
+        Mensen die hier hoog op scoren raken door moeilijke situaties snel van slag en worden gemakkelijk overmand door emoties. Deze gevoeligheid maakt iemand gevoelig voor prikkels. Men is vatbaar voor indrukken, snel bezorgd, angstig of paniekerig. Vergeleken met emotioneel stabielere mensen heeft men bij stressvolle situaties veel behoefte aan steun.
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op emotionele instabiliteit: Behoefte aan steun hebben is heel normaal. Ik probeer mijn emoties en behoefte voor mijzelf helder te krijgen, onder woorden te brengen. Aan iemand waarbij ik mij op mijn gemak voel vertel ik waar ik behoefte aan heb zodat hij of zij steun kan bieden zodat mijn emoties minder overheersen en er bij meer ruimte komt voor oplossingen.</em>
+      </p>
+     
+      ",
+      "rightColumn" : "
+       <p>
+        <strong class='color1'>Type-A</strong><br>
+        Een gedragsstijl die zich kenmerkt door gejaagdheid, ambitie, gedrevenheid, prikkelbaarheid, agressie, dominantie en behoefte aan controle. 
+      </p>
+      <p>
+       Mensen met veel type A-kenmerken zijn vaak gehaast en gestrest. Zij zijn ingesteld op competitie en gaan graag uitdagingen aan. Stress is hun krachtigste motor. Het is goed om te leren afstand te nemen van de dingen, te relativeren en de gejaagdheid en agressiviteit te temperen. Met als belangrijkste doel je te beschermen tegen de schadelijke gevolgen van stress voor de gezondheid.
+      </p>
+      <p>
+        Mensen in hun omgeving kunnen zich algauw opgejaagd voelen als ze dit jachtige tempo niet aankunnen. Bovendien lopen A-types het risico afgewezen te worden omdat ze geneigd zijn zich autoritair te gedragen en zich vlug kwaad maken, vooral als het naar hun gevoel te traag gaat.
+      </p>
+      <p>
+      Type-B mensen zijn kalm, sereen en ontspannen. Het onderscheid tussen type-A en type-B is niet zwart-wit maar men neigt naar type-A of naar type-B.
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op Type-A: Ik leun achterover in mijn stoel, sluit drie minuten mijn ogen en concentreer me bewust op mijn ademhaling. Ik houd na deze drie minuten mijn ogen nog even dicht en bedenk wat echt belangrijk voor mij is in een relatie.</em>
+      </p>
+      "
+    },
+
+    // Problem Handling
+    "problemHandling1" : {
+      "title" : "Omgaan met problemen",
+      "subTitle" : "",
+      "intro" : "",
+      "leftColumn" : "
+      <p>
+        Mensen hebben manieren om stress, veroorzaakt door lastige situaties te verminderen of om er beter mee om te gaan. Een oplossingsgerichte manier kan bijvoorbeeld een goede manier zijn om met stressvolle situaties om te gaan, mits de persoon mogelijkheden heeft om zijn of haar eigen omstandigheden te veranderen. In dat geval zal dit het gevoel van controle vergroten en waarschijnlijk een positief effect hebben. Biedt de omgeving echter geen mogelijkheden tot verandering dan kan het beter zijn om afleiding te zoeken. In dat geval zal een oplossingsgerichte aanpak eerder frustreren, wat weer het vinden van oplossingen in de weg kan staan.
+      </p>
+      <p>
+        <strong class='color1'>Probleemgerichtheid</strong><br>
+        Gedrag dat er op gericht is om de problemen op te lossen. Je wilt het probleem meteen aanpakken.
+      </p>
+      <p><em class='color1'>Wat kan ik ongeacht mijn score doen: ik visualiseer niet alleen <u>wat</u> ik wil oplossen maar ook <u>hoe</u> ik dat ga doen. Ik bedenk welke tegenslagen er kunnen zijn en bedenk daar ook voor <u>hoe</u> ik daar mee omga.</em>
+      </p>
+      <p>
+        <strong class='color1'>Emotiegerichtheid</strong><br>
+        Berust op het uiten van gevoelens en daardoor het verminderen van de intensiteit van gevoelens. Bijvoorbeeld: Ik laat merken als ik ergens mee zit (stoom afblazen).
+      </p>
+         <p><em class='color1'>Wat kan ik ongeacht mijn score doen: Ik uit mijn gedachten en emoties bij een persoon die ik vertrouw over een bepaalde kwestie en vraag daarna wat de ander van de situatie vindt en hoe hij/zij met de situatie om zou gaan. Ik luister daar naar zonder oordeel.</em>
+      </p>
+      ",
+       "rightColumn" : "
+      <p>
+        <strong class='color1'>Vermijden</strong><br>
+        De neiging om lastige situaties uit de weg te gaan en de problemen niet onder ogen te willen zien. Bijvoorbeeld: Ik ga door alsof er niks gebeurd is.
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op vermijden: Ik vraag mijzelf af wat ik moeilijk vindt van een bepaalde situatie, breng dat en welk gevoel ik erbij heb onder woorden en ik ga hierover het gesprek aan met de ander. Ik begin met een klein probleem.</em>
+      </p>
+      <p>
+        <strong class='color1'>Afleiding zoeken</strong><br>
+        Erop gericht om problemen tijdelijk te vergeten, maar wel met het voornemen het probleem later onder ogen te zien.
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik laag scoor op afleiding zoeken: Bij een probleem zoek ik eerst afleiding zodat het probleem kan bezinken. Ik breng mijzelf bijvoorbeeld tot rust door te sporten/bewegen om daarna wel opnieuw naar de situatie te kijken en actie te ondernemen. </em>
+      </p>
+      "
+    },
+
+
+    // Your Infuence, Locus of Control
+    "yourInfluence1" : {
+      "title" : "Invloed",
+      "subTitle" : "",
+      "intro" : "De “locus of control” theorie beschrijft welke invloed mensen zelf denken te hebben gehad op de oorzaak van gebeurtenissen in hun leven en de mate van invloed die zij hebben op de oplossing.",
+      "leftColumn" : "
+      <p><strong class='color1'>Invloed</strong><br>Personen die vinden dat zij zelf een grote mate van invloed kunnen uitoefenen op situaties in hun leven en hoe zij omgaan met gebeurtenissen zijn geneigd de verantwoordelijkheid voor het verloop van gebeurtenissen aan zichzelf toe te schrijven (eigen invloed).
+      </p>
+      <p>Het idee is dat hoe meer controle deze individuen denken te hebben over de dingen die hen aangaan, hoe minder stress zij ervaren. Een gevolg is dat zij zichzelf over het algemeen in staat achten veranderingen in situaties aan te brengen wanneer zij dit nodig vinden.
+      </p>
+      <p>Personen daarentegen die niet ervaren dat zij invloed hebben op situaties in hun leven schrijven het verloop van gebeurtenissen eerder toe aan factoren buiten zichzelf. Dit kunnen belangrijke anderen zijn (de partner, de directie, de politiek), maar ook het noodlot of het toeval.
+      </p>
+      <p>Deze mensen kunnen zich vervolgens machteloos voelen en niet in staat om goed om te gaan met stress. Dat geldt vooral in situaties die gekenmerkt worden door onzekerheid. Als aan deze mensen moeilijk haalbare eisen worden gesteld, kan dit het gevoel van hulpeloosheid versterken, waardoor het vermogen tot het vinden van oplossingen afneemt en de kans op lichamelijke/psychische klachten toeneemt.
+      </p>
+      ",
+      "rightColumn" : "
+      <p><strong class='color1'>Hoe kan ik mijn eigen invloed op situaties ontwikkelen?</strong><br>Stel dat ik vindt dat ik zelf invloed kan uitoefenen op situaties in mijn leven, dan bedenk ik vooral waar mijn eigen verantwoordelijkheid ligt. Zowel bij het ontstaan van een ruzie als bij het oplossen daarvan; 'wat zijn mijn gevoeligheden en waar heb ik wellicht confronterend/niet aardig/onbegrijpelijk gereageerd'? Ik kan dan vervolgens voor dat aandeel in de ruzie mijn excuses aanbieden, of tenminste mijn gedrag en gevoelens pogen uit te leggen.
+      </p>
+      <p>Maar wat nou als ik vindt dat ik geen invloed heb op situaties in mijn leven? Dan is de zaak een stuk simpeler: 'de ander is de schuldige, hij deed stom en ik kan er niks aan doen. Hij mag dan ook mooi zijn excuses aanbieden en de ruzie oplossen'.
+      </p>
+      <p>Maar is dat wel zo simpel? Immers, ik heb hierbij niks zelf in de hand en ik kan ook niet van de ander verwachten dat hij (of zij) zomaar precies doet wat ik wil.
+      </p>
+      <p>Het komt er zo al snel op neer dat ik alleen mijn eigen gedrag in de hand hebt.
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op externe locus of control: Neem in gedachte een onenigheid die je pas geleden met iemand had. Wat had ikzelf kunnen doen om deze situatie te verbeteren?</em>
+      </p>
+      "
+    },
+
+    // Confict Handling
+    "conflictHandling1" : {
+      "title" : "Omgaan met conflicten",
+      "subTitle" : "",
+      "intro" : "Wat maakt dat ik op een bepaalde manier reageer op een conflict?",
+      "leftColumn" : "
+      <p>
+        Hoe iemand reageert als hij/zij te maken krijgt met conflicten maar ook in andere situaties waarbij tegenstrijdige belangen spelen is grotendeels afhankelijk van de mate waarin hij/zij zich laat leiden door <strong>twee basisredenen/motieven</strong> die aan het handelen ten grondslag liggen:
+      </p>
+      <p>
+        <strong class='color1'>Reden 1<br>De zorg voor andermans belang.</strong><br>
+        Om twee redenen: 
+      </p>
+      <ol>
+        <li><em class='color1'>Geborgenheid;</em> De mens is een sociaal wezen en wil verbinding maken met anderen wat hem het gevoel geeft van 'erbij te horen' en een gevoel van veiligheid.</li>
+        <li><em class='color1'>Erkenning/goedkeuring;</em> Anderen bieden ons een referentiekader. Met andere woorden; aan anderen kun je je kijk op jezelf en op andere aspecten van het leven toetsen.</li>
+      </ol>
+      <p>
+        Als de behoefte aan geborgenheid erg groot is en de angst om afgewezen te worden heel sterk dan kan zich dat op twee manieren in gedrag uiten:
+      </p>
+      <ol>
+        <li>Ofwel men stelt zich te veel open voor de ander, gaat zich te sterk richten op diens wensen en behoeften, gaat leven naar de verwachtingen van anderen en cijfert zichzelf weg in de hoop zo zijn behoefte aan geborgenheid en erkenning vervuld te krijgen. Dat is bij <em>toedekken</em> het geval.</li>
+        <li>Ofwel men gaat zich te zeer terugtrekken, zich afsluiten voor anderen. Om niet het risico te lopen om afgewezen te worden gebruikt men de techniek van 'ik heb aan mijzelf genoeg' 'ik kan het alleen af' en 'je krijgt mij niet'. 'Als niemand mij belangrijk genoeg vindt dan maak ik mij onzichtbaar'. Dit is bij <em>ontlopen</em> het geval.</li>
+      </ol>
+      ",
+      "rightColumn" : "
+      <p>
+        <strong class='color1'>Reden 2<br>Eigen doelen en belangen nastreven; behoefte eigen 'baas' te zijn en dat in doen en laten te laten zien.</strong><br>
+        Het al of niet realiseren van je eigen doelen, hoe klein ook, trouw blijven aan jezelf, bepaalt in grote mate de tevredenheid met je eigen leven.
+      </p>
+      <p>
+      De angst om niet in staat te zijn om het bovenstaande te realiseren uit zich op twee manieren in gedrag:
+      </p>
+      <ol>
+        <li>Ofwel je trekt je te zeer terug, je durft geen verantwoordelijkheid te nemen en laat besluiten nemen aan anderen over. Je neemt zelf een ondergeschikte positie in en sluit zo bij voorbaat de mogelijkheid uit om invloed of macht uit te oefenen en voor je eigen belangen op te komen. Dit is bij <em>ontlopen</em> het geval.</li>
+        <li>Ofwel je domineert anderen en bent opzoek naar macht en invloed en wedijvert met anderen hierom. Je moet je voortdurend bewijzen. Dat is bij <em>forceren</em> het geval.</li>
+      </ol>
+      "
+    },
+
+    // Confict Handling
+    "conflictHandling2" : {
+      "title" : "",
+      "subTitle" : "(Omgaan met conflicten - vervolg)",
+      "intro" : "Iedereen kan alle vier de conflicthanteringsstijlen ontwikkelen zodat je afhankelijk van de situatie je stijl leert aanpassen en inzetten. Veel mensen zijn geneigd om steeds dezelfde manier van omgaan met conflicten te gebruiken. Dat is jammer, want afhankelijk van de situatie kan de ene stijl van conflicthantering gunstiger uitpakken dan de andere. De ene conflictstijl is dus niet per definitie beter of slechter dan de ander. 
+      <p>Zo kan ontlopen handig zijn als de relatie met de 'tegenpartij' kwetsbaar is en het onderwerp van het conflict minder belangrijk. Forceren kan de beste methode zijn als een snelle beslissing nodig is, de kwestie belangrijk is en de andere partij niet gemotiveerd is samen te werken aan een oplossing.
+      </p>
+      ",
+      "leftColumn" : "
+      <p>
+        <strong class='color1'>Ontlopen </strong><br>
+        <em>Als je hier hoog op scoort, dan past onderstaande tekst bij jou:</em>
+      </p>
+      <p>
+        Je bent geneigd je terug te trekken en je af te sluiten van anderen en van jezelf uit angst afgewezen te worden (negatief zelfgevoel) en uit angst niet goed genoeg te zijn. Je staat onverschillig tegenover de belangen van anderen en tegenover je eigen doelen en belangen. Vaak weet je niet (meer) wat je wil omdat je je eigen gevoel en behoeften niet meer helder hebt. Je hebt het gevoel op te moeten boksen tegen een overmacht en richt al je energie op het voorkomen van een openlijke botsing of confrontatie met de ander. Dit kan in je communicatie tot uiting komen in het gebruik van algemene, vage uitspraken of het maken van niet ter zake doende opmerkingen of grapjes. Het kan ook de vorm aannemen van een zakelijk gesprek, het op een ander onderwerp brengen, uitstellen, of weigeren over het conflict te praten.
+      </p>
+      <p>
+        Je stelt je ondergeschikt op, durft geen verantwoordelijkheid te nemen, laat besluiten nemen over aan anderen en reageert alleen op anderen. Je sluit zo bij voorbaat de mogelijkheid uit om invloed uit te oefenen en voor je eigen belangen op te komen. Je voelt je machteloos en slachtoffer van de situatie.
+      </p>
+      ",
+      "rightColumn" : "
+      <p>
+        Door je terug te trekken loop je weinig risico maar je krijgt ook niet wat je wil. Je staat versteld van het onbegrip dat anderen voor je hebben. Je vindt dat de ander als hij zou nadenken zou weten wat jij vervelend vindt. Je realiseert je echter niet dat jij je juist 'onzichtbaar' opstelt en dat je een dubbelzinnig signaal uitzendt. Aan de ene kant heb je een houding van het alleen uit willen zoeken en aan de andere kant wil je contact en erkenning. Dit alles resulteert in een diepgevoel van ontevredenheid en onbehagen. Dit onverschillige gedrag slaat soms door in negatief gedrag naar de ander. Je verwoordt je negatieve gevoelens niet openlijk maar je pleegt heimelijk verzet. 
+      </p>
+      <p>
+     Het kan ook zijn dat je uit vrijheid kiest om in bepaalde situaties een conflict te ontlopen omdat je de relatie en je eigen belang niet de moeite waard vindt om ervoor te vechten of omdat je bijvoorbeeld moe bent, je niet sterk genoeg voelt, een gunstiger moment wil afwachten of je kunt je geen openlijk conflict veroorloven. Als je conflicten echter altijd uit de weg gaat zal je weinig of geen diepgaande relaties hebben.
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op ontlopen: Ik schrijf op welk belangrijk besluit ik neem met betrekking tot het bereiken van mijn belangen, wensen en behoeften. Wat wil ik, waarom wil ik dit en hoe ga ik dit bereiken. Door dit te doen neem ik verantwoordelijkheid en toon ik leiderschap voor de kwaliteit van mijn eigen leven en mijn relatie.</em>
+     </p>
+      "
+    },
+
+    // Confict Handling
+    "conflictHandling3" : {
+      "title" : "",
+      "subTitle" : "(Omgaan met conflicten - vervolg)",
+      "intro" : "",
+      "leftColumn" : "
+      <p>
+        <strong class='color1'>Toedekken</strong><br>
+        <em>Als je hier hoog op scoort, dan past onderstaande tekst bij jou:</em>
+      </p>
+      <p>
+        Je houding is erop gericht om de onderlinge relatie goed te houden zelfs als dat ten kosten gaat van je eigen belangen. Je beschouwt je relatie met de ander als zo kwetsbaar dat die een openlijke confrontatie en het bespreken van meningsverschillen niet kan verdragen. Je wil een conflict voorkomen door een harmonische sfeer en vriendschappelijke verhoudingen te benadrukken, door het uiten van negatieve emoties tegen te gaan, het kwetsen en frustreren van de ander te vermijden, onderlinge verschillen te verzachten, het gemeenschappelijke te benadrukken en vooruit te lopen op de wensen van de ander ('gedachten lezen'). Je hebt daar een zesde zintuig voor ontwikkeld.
+      </p>
+      <p>
+       Je cijfert jezelf weg, verloochent je eigen behoeften en geeft de ander in alles toe zonder te laten blijken wat jijzelf wil. Je gehoorzaamt, schikt je naar de ander en neemt alle schuld op je. Waarschijnlijk ben je erg onzeker van jezelf en heb je weinig gevoel van eigenwaarde. Je hebt het idee dat wanneer je wel voor jezelf opkomt de ander je zal laten vallen of je afwijst. Je stelt je afhankelijk op waardoor je je onzeker en machteloos voelt. Je wil het graag goed doen en probeert daarom zoveel mogelijk aan de wensen van de ander te voldoen. Als er een conflict ontstaat wijt je dat aan je zelf en voel je je schuldig en voel jij je verantwoordelijk dat het weer goed komt.
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op toedekken: Ik spreek mijn behoefte hardop en vriendelijk uit naar de ander. Bijvoorbeeld: ik wil graag dat jij meegaat naar het feest omdat ik trots ben op ons samen en ik wil dat ook aan anderen laten zien. Ik doe hiermee openlijk een beroep op de ander om belangeloos iets voor mij te doen..</em>
+      </p>
+      ",
+      "rightColumn" : "
+      <p>
+        <strong class='color1'>Forceren</strong><br>
+        <em>Als je hier hoog op scoort, dan past onderstaande tekst bij jou:</em>
+      </p>
+      <p>
+      Je hebt een zeer zelfverzekerde manier van optreden om eigen doelen en belangen door te drukken ten koste van die van de ander. Je ziet een conflict als een strijd van winnen of verliezen waarbij de belangen van jezelf en de ander als elkaar uitsluitend worden ervaren. Je staat onverschillig tegenover het in standhouden van een goede relatie met de ander. Je treedt met veel machtsvertoon op, zet de ander onder druk, bekritiseert de ander, maakt de ander belachelijk, dreigt met sancties, je gooit je formele positie in de strijd of je gaat juist op een subtiele bedekte wijze te werk. Je bent zo overtuigd van je eigen gelijk en of macht dat je de schuld bij de ander legt. Je voelt je niet persoonlijk aangesproken en verantwoordelijk door en voor het conflict.
+      </p>
+      <p>
+        Deze kracht kan een positieve kwaliteit zijn en functioneel als het om echt belangrijke zaken gaat en je ook de positie hebt om je zo op te stellen. Je bent onafhankelijk en autonoom, weet wat je wil, toont initiatief en je bent besluitvaardig. Je maakt je niet druk om de relatie met de ander. Je eigen behoeftes en verlangens staan centraal. Als je echter voortdurend zo te werk gaat en jezelf moet bewijzen dan krijg je wel vaak je zin maar houdt je weinig tot geen waardevolle relaties over.
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op forceren: Ik schrijf drie zaken op waarbij ik het belang/behoefte van de ander zwaarder heb laten wegen dan mijn eigen belang/behoefte. Als die er niet zijn ga ik daar vanaf nu aandacht aan schenken.</em>
+      </p>
+      "
+    },
+
+    // Confict Handling
+    "conflictHandling4" : {
+      "title" : "",
+      "subTitle" : "(Omgaan met conflicten - vervolg)",
+      "intro" : "",
+      "leftColumn" : "
+      <p>
+        <strong class='color1'>Confronteren/Samenwerken</strong><br>
+        <em>Als je hier hoog op scoort, dan past onderstaande tekst bij jou:</em>
+      </p>
+      <p>
+        Je gedrag is zowel gericht op het nastreven van je eigen doelen en belangen als op het goed houden van de relatie en zorg voor andermans belangen. Je vindt dat jullie beiden verantwoordelijk zijn voor jullie situatie en het zou voor jullie allebei winst op moeten kunnen leveren. Wanneer wensen en belangen strijdig zijn wil je dat jullie samenwerken om tot een oplossing te komen naar ieders tevredenheid.
+      </p>
+      <p>
+        Je voelt je zeker genoeg om voor je eigen belangen op te komen en je realiseert je dat je afhankelijk bent van de ander. Je drijft je zin niet door omdat dat slecht is voor de relatie en je geeft niet snel toe omdat je daarmee je eigen belangen uit het oog verliest. Je kan slecht tegen een gespannen sfeer en wil zaken uitpraten. Confronteren vraagt van beiden een open en flexibele houding en de wens er samen uit te komen. Er moet een vrij goede onderlinge communicatie zijn en een redelijke basis aan sociale vaardigheden.
+      </p>
+      <p>
+        Als men in alle situaties koste wat het kost samenwerking nastreeft en op onderling begrip uit is dan kan het voortkomen uit het onvermogen om de realiteit van onoverbrugbare tegenstellingen onder ogen te zien. Je wil niet zien dat jouw belangen niet verenigbaar zijn met die van de ander. Je vindt het moeilijk om toe te geven dat er een onoverbrugbare kloof bestaat omdat je dan wordt teruggeworpen op jezelf. Je hebt behoefte aan geborgenheid en erkenning en je wil de ander niet kwijt. Wanneer je altijd confronteert leef je altijd in conflict, er is altijd wel iets uit te praten. Het kost veel tijd en energie als je eraan blijft vasthouden terwijl de ander waarschijnlijk ontloopt of forceert. 
+      </p>
+      <p><em class='color1'>Wat kan ik doen als ik hoog scoor op confronteren: Ik schrijf een belang/behoefte op die niet verenigbaar is met die mijn partner. Hoe lukt het mij om mijn eigen belang/behoefte los te laten zodat samenwerken of een compromis sluiten mogelijk is.</em>
+      </p>
+      ",
+      "rightColumn" : "
+      <p>
+        <strong class='color1'>Geen hoge score</strong><br>
+        <em>Als je op geen van de vier stijlen hoog scoort past onderstaande tekst bij jou:</em>
+      </p>
+      <p>
+      Wanneer je minder afhankelijk bent van geborgenheid en erkenning door anderen en als je weinig angst hebt om niet goed genoeg te zijn dan kan je je gedrag afhankelijk van de situatie aanpassen. Soms toegeven, soms uit de weg gaan soms je terug te trekken of soms je zin willen krijgen. Flexibiliteit is juist belangrijk voor het effectief hanteren van conflicten.
+      </p>
+
+      "
+    },
+
+    // Confict Handling
+    "feedback1" : {
+      "title" : "Feedbackvaardigheden",
+      "subTitle" : "",
+      "intro" : "Wat is feedback geven en ontvangen ook al weer en wat is het doel?",
+      "leftColumn" : "
+      <p>
+        Feedback is commentaar dat we geven op, of ontvangen over iemands veranderbare gedrag of houding. Via feedback leer je hoe jouw gedrag of houding overkomt en welke effecten dat gedrag op de ander heeft. Feedback kan zowel positief ('Wat heb jij dat duidelijk uitgelegd. Ik snapte het meteen!') als negatief ('Ik vond het vervelend dat je mij tijdens mijn verhaal steeds in de rede viel') zijn. Het doel van feedback is om positief gedrag te erkennen en te stimuleren, negatief gedrag te corrigeren, relaties tussen personen te verduidelijken en begrip voor elkaar en voor het eigen gedrag te vergroten. Het is een vorm van relatiemanagement.
+      </p>
+      <p>
+       Het is erg nuttig om feedback te geven maar het is ook best moeilijk. Je hebt er heel wat moed voor nodig. Of het nu negatieve of positieve feedback is. Geven we negatieve feedback, dan zijn we vaak bang dat iemand boos wordt of dat het niet goed overkomt. Bij positieve feedback vindt de ander je misschien snel een slijmbal. Al met al een hele kunst.
+      </p>
+      <p>
+        Zo op het eerste gezicht lijken er zelfs allerlei voordelen te zijn om juist géén feedback te geven. De sfeer blijft (schijnbaar) goed. Er ontstaat geen ruzie. Het kost je geen energie om de feedback te verwoorden. Je krijgt geen kritiek terug. Maar op de langere termijn schiet je er niets mee op en zorgt het voor allerlei narigheid. Je blijft je ergeren. Er verandert niets. De ander krijgt geen kans om zich te verbeteren. Je krijgt niet wat je wil.
+      </p>
+      ",
+      "rightColumn" : "
+      <p>
+        <strong class='color1'>Tips voor het geven van feedback:</strong><br>
+      </p>
+      <ol>
+        <li>Benoem veranderbaar gedrag.</li>
+        <li>Benoem een concrete gebeurtenis die je zelf hebt waargenomen.</li>
+        <li>Bij voorkeur kort na de gebeurtenis.</li>
+        <li>Onder vier ogen.</li>
+        <li>Geef aan welk effect dat gedrag op je heeft.</li>
+        <li>Spreek je wens uit voor ander gedrag.</li>
+        <li>Geef de ander de ruimte om te reageren.</li>
+        <li>Verken samen oplossingen of achtergronden.</li>
+      </ol>
+      <p>
+        <strong class='color1'>Tips voor het ontvangen van feedback:</strong><br>
+      </p>
+      <ol>
+        <li>Probeer actief met een open houding te luisteren.</li>
+        <li>Vraag om uitleg als je iets niet begrijpt.</li>
+        <li>Toon waardering.</li>
+        <li>Ben je teveel van slag leg dit dan uit en zeg toe dat je erop terugkomt.</li>
+        <li>Neem de tijd om te besluiten er al dan niet iets mee te doen.</li>
+      </ol>
+      <p><em class='color1'>Wat kan ik doen: Ik oefen met bovenstaande tips in het dagelijks leven met een dierbare. Ik begin met eenvoudige dagelijkse situaties. Als dat mij redelijk afgaat ga ik oefenen met feedback geven op gedrag van de ander waar ik zwaar aan til.</em>
+      </p>
+      "
+    }
+
+  }
+
+}
